@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze real estate sales performa
 
 > **Academic Project**
 >
-> This project was developed for educational purposes as part of a Data Analytics program, using a simulated real estate business case.
+> This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced.
 
 ---
 
