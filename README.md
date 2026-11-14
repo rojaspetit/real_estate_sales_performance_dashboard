@@ -2,10 +2,6 @@
 
 An interactive Power BI dashboard designed to analyze real estate sales performance across Bogotá and Mexico City. The project combines transaction, customer, and property data to evaluate sales value, property performance, customer segments, sales channels, and repeat purchase behavior.
 
-> **Academic Project**
->
-> This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced.
-
 ---
 
 ## 📌 Project Overview
